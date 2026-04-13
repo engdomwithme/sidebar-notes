@@ -263,3 +263,238 @@
 - Will Forte (Bodkin, Gilbert Power)
 - Siobhán Cullen (Bodkin, Dove)
 - Robyn Cara (Bodkin, Emmy)
+
+---
+
+# FİLMLER
+
+## Equilibrium
+- Christian Bale (Equilibrium, John Preston)
+
+## The Proposal
+- Sandra Bullock (The Proposal, Margaret Tate)
+- Ryan Reynolds (The Proposal, Andrew Paxton)
+
+## The Substance
+- Demi Moore (The Substance, Elisabeth Sparkle)
+- Margaret Qualley (The Substance, Sue)
+
+## Venom: The Last Dance
+- Tom Hardy (Venom, Eddie Brock / Venom)
+
+## Ready or Not
+- Samara Weaving (Ready or Not, Grace)
+- Mark O'Brien (Ready or Not, Alex Le Domas)
+
+## Trainspotting
+- Ewan McGregor (Trainspotting, Mark Renton)
+
+## The Book of Eli
+- Denzel Washington (The Book of Eli, Eli)
+- Mila Kunis (The Book of Eli, Solara)
+
+## Failure to Launch
+- Matthew McConaughey (Failure to Launch, Tripp)
+- Sarah Jessica Parker (Failure to Launch, Paula)
+
+## No Country for Old Men
+- Javier Bardem (No Country for Old Men, Anton Chigurh)
+- Josh Brolin (No Country for Old Men, Llewelyn Moss)
+- Tommy Lee Jones (No Country for Old Men, Ed Tom Bell)
+
+## Interstellar
+- Matthew McConaughey (Interstellar, Cooper)
+- Anne Hathaway (Interstellar, Dr. Brand)
+- Jessica Chastain (Interstellar, Murphy yetişkin)
+
+## Wanted
+- James McAvoy (Wanted, Wesley Gibson)
+- Angelina Jolie (Wanted, Fox)
+
+## Jumanji: Welcome to the Jungle & The Next Level
+- Dwayne Johnson (Jumanji, Dr. Smolder Bravestone)
+- Kevin Hart (Jumanji, Franklin Finbar)
+- Jack Black (Jumanji, Professor Shelly Oberon)
+
+## Central Intelligence
+- Dwayne Johnson (Central Intelligence, Bob Stone)
+- Kevin Hart (Central Intelligence, Calvin Joyner)
+
+## The Dark Knight Serisi
+- Christian Bale (Batman, Bruce Wayne)
+- Heath Ledger (The Dark Knight, Joker)
+- Aaron Eckhart (The Dark Knight, Harvey Dent)
+- Tom Hardy (The Dark Knight Rises, Bane)
+- Anne Hathaway (The Dark Knight Rises, Selina Kyle)
+
+## The Conjuring Serisi
+- Vera Farmiga (The Conjuring, Lorraine Warren)
+- Patrick Wilson (The Conjuring, Ed Warren)
+
+## Warm Bodies
+- Nicholas Hoult (Warm Bodies, R)
+
+## The Truman Show
+- Jim Carrey (The Truman Show, Truman Burbank)
+
+## The Equalizer Serisi
+- Denzel Washington (The Equalizer, Robert McCall)
+
+## American Beauty
+- Kevin Spacey (American Beauty, Lester Burnham)
+- Annette Bening (American Beauty, Carolyn Burnham)
+
+## The Matrix Serisi
+- Keanu Reeves (The Matrix, Neo)
+- Carrie-Anne Moss (The Matrix, Trinity)
+- Laurence Fishburne (The Matrix, Morpheus)
+
+## Catch Me If You Can
+- Leonardo DiCaprio (Catch Me If You Can, Frank Abagnale Jr.)
+- Tom Hanks (Catch Me If You Can, Carl Hanratty)
+
+## Parasite
+- Song Kang-ho (Parasite, Ki-taek)
+- Choi Woo-shik (Parasite, Ki-woo)
+- Park So-dam (Parasite, Ki-jung)
+
+## The Devil Wears Prada
+- Meryl Streep (The Devil Wears Prada, Miranda Priestly)
+- Anne Hathaway (The Devil Wears Prada, Andy Sachs)
+- Emily Blunt (The Devil Wears Prada, Emily Charlton)
+
+## Murder Mystery
+- Adam Sandler (Murder Mystery, Nick Spitz)
+- Jennifer Aniston (Murder Mystery, Audrey Spitz)
+
+## V for Vendetta
+- Hugo Weaving (V for Vendetta, V)
+- Natalie Portman (V for Vendetta, Evey Hammond)
+
+## The Devil's Advocate
+- Keanu Reeves (The Devil's Advocate, Kevin Lomax)
+- Al Pacino (The Devil's Advocate, John Milton)
+
+## The Pianist
+- Adrien Brody (The Pianist, Władysław Szpilman)
+
+## The Shape of Water
+- Sally Hawkins (The Shape of Water, Elisa Esposito)
+- Michael Shannon (The Shape of Water, Richard Strickland)
+
+## Fight Club
+- Brad Pitt (Fight Club, Tyler Durden)
+- Edward Norton (Fight Club, The Narrator)
+- Helena Bonham Carter (Fight Club, Marla Singer)
+
+## The Amazing Spider-Man
+- Andrew Garfield (Spider-Man, Peter Parker)
+- Emma Stone (Spider-Man, Gwen Stacy)
+
+## The Dark Knight Rises
+- (Batman Begins / The Dark Knight ile ortak - yukarıda listelendi)
+
+## Spider-Man (Tobey Maguire Serisi)
+- Tobey Maguire (Spider-Man, Peter Parker)
+- Kirsten Dunst (Spider-Man, Mary Jane)
+- James Franco (Spider-Man, Harry Osborn)
+
+## Shutter Island
+- Leonardo DiCaprio (Shutter Island, Teddy Daniels)
+
+## Avatar
+- Sam Worthington (Avatar, Jake Sully)
+- Zoe Saldana (Avatar, Neytiri)
+- Sigourney Weaver (Avatar, Dr. Grace Augustine)
+
+## Se7en
+- Brad Pitt (Se7en, Mills)
+- Morgan Freeman (Se7en, Somerset)
+
+## Sherlock Holmes
+- Robert Downey Jr. (Sherlock Holmes, Sherlock Holmes)
+- Jude Law (Sherlock Holmes, Dr. Watson)
+
+## Bohemian Rhapsody
+- Rami Malek (Bohemian Rhapsody, Freddie Mercury)
+
+## Mr. Nobody
+- Jared Leto (Mr. Nobody, Nemo Nobody)
+
+## Gone Girl
+- Ben Affleck (Gone Girl, Nick Dunne)
+- Rosamund Pike (Gone Girl, Amy Dunne)
+
+## Eternal Sunshine of the Spotless Mind
+- Jim Carrey (Eternal Sunshine, Joel Barish)
+- Kate Winslet (Eternal Sunshine, Clementine)
+
+## A Beautiful Mind
+- Russell Crowe (A Beautiful Mind, John Nash)
+
+## Silver Linings Playbook
+- Bradley Cooper (Silver Linings Playbook, Pat Solitano)
+- Jennifer Lawrence (Silver Linings Playbook, Tiffany Maxwell)
+
+## Forrest Gump
+- Tom Hanks (Forrest Gump, Forrest Gump)
+
+## The Batman
+- Robert Pattinson (The Batman, Bruce Wayne / Batman)
+- Zoë Kravitz (The Batman, Selina Kyle / Catwoman)
+- Paul Dano (The Batman, Riddler)
+- Colin Farrell (The Batman, Oswald Cobblepot / Penguin)
+
+## The Pursuit of Happyness
+- Will Smith (The Pursuit of Happyness, Chris Gardner)
+- Jaden Smith (The Pursuit of Happyness, Christopher Gardner Jr.)
+
+## Focus
+- Will Smith (Focus, Nicky)
+- Margot Robbie (Focus, Jess)
+
+## Lucy
+- Scarlett Johansson (Lucy, Lucy)
+- Morgan Freeman (Lucy, Professor Norman)
+
+## Extremely Wicked, Shockingly Evil and Vile
+- Zac Efron (Extremely Wicked, Ted Bundy)
+- Lily Collins (Extremely Wicked, Liz Kendall)
+
+## Gravity
+- Sandra Bullock (Gravity, Dr. Ryan Stone)
+- George Clooney (Gravity, Matt Kowalski)
+
+## In Time
+- Justin Timberlake (In Time, Will Salas)
+- Amanda Seyfried (In Time, Sylvia Weis)
+
+## The Green Mile
+- Tom Hanks (The Green Mile, Paul Edgecomb)
+- Michael Clarke Duncan (The Green Mile, John Coffey)
+
+## Insidious Serisi
+- Patrick Wilson (Insidious, Josh Lambert)
+- Rose Byrne (Insidious, Renai Lambert)
+
+## The Wolverine
+- Hugh Jackman (The Wolverine, Logan / Wolverine)
+
+## Love at First Sight
+- Hailee Steinfeld (Love at First Sight, Hadley Sullivan)
+
+## 6 Underground
+- Ryan Reynolds (6 Underground, One)
+
+## Last Christmas
+- Emilia Clarke (Last Christmas, Kate)
+- Henry Golding (Last Christmas, Tom)
+
+## The Guilty
+- Jake Gyllenhaal (The Guilty, Joe Baylor)
+
+## The Boy in the Striped Pajamas
+- Asa Butterfield (The Boy in the Striped Pajamas, Bruno)
+
+## Love and Monsters
+- Dylan O'Brien (Love and Monsters, Joel Dawson)
