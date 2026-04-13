@@ -74,13 +74,6 @@
 - Luciane Buchanan (The Night Agent, Rose Larkin)
 - Hong Chau (The Night Agent, Diane Farr)
 
-## The Mentalist
-- Simon Baker (The Mentalist, Patrick Jane)
-- Robin Tunney (The Mentalist, Teresa Lisbon)
-- Tim Kang (The Mentalist, Kimball Cho)
-- Amanda Righetti (The Mentalist, Grace Van Pelt)
-- Owain Yeoman (The Mentalist, Wayne Rigsby)
-
 ## Dark (Ansambl)
 - Louis Hofmann (Dark, Jonas Kahnwald)
 - Lisa Kreuzer (Dark, Claudia Tiedemann)
@@ -149,12 +142,6 @@
 - Max Riemelt (Sense8, Wolfgang Bogdanow)
 - Brian J. Smith (Sense8, Will Gorski)
 - Tuppence Middleton (Sense8, Riley Blue)
-
-## Unbreakable Kimmy Schmidt
-- Ellie Kemper (Kimmy Schmidt, Kimmy Schmidt)
-- Tituss Burgess (Kimmy Schmidt, Titus Andromedon)
-- Jane Krakowski (Kimmy Schmidt, Jacqueline White)
-- Carol Kane (Kimmy Schmidt, Lillian Kaushtupper)
 
 ## Doctor Who (2005)
 - David Tennant (Doctor Who, Onuncu Doctor)
