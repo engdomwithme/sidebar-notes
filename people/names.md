@@ -492,3 +492,9 @@
 
 ## The Guilty
 - Jake Gyllenhaal (The Guilty, Joe Baylor)
+
+## The Boy in the Striped Pajamas
+- Asa Butterfield (The Boy in the Striped Pajamas, Bruno)
+
+## Love and Monsters
+- Dylan O'Brien (Love and Monsters, Joel Dawson)
