@@ -498,3 +498,9 @@
 
 ## Love and Monsters
 - Dylan O'Brien (Love and Monsters, Joel Dawson)
+
+## Ex Machina
+- Domhnall Gleeson (Ex Machina, Caleb Smith)
+- Alicia Vikander (Ex Machina, Ava)
+- Oscar Isaac (Ex Machina, Nathan Bateman)
+- Sonoya Mizuno (Ex Machina, Kyoko)
