@@ -504,3 +504,11 @@
 - Alicia Vikander (Ex Machina, Ava)
 - Oscar Isaac (Ex Machina, Nathan Bateman)
 - Sonoya Mizuno (Ex Machina, Kyoko)
+
+## Dept. Q
+- Matthew Goode (Dept. Q, Carl Morck)
+- Alexej Manvelov (Dept. Q, Akram Salim)
+- Leah Byrne (Dept. Q, Rose Dickson)
+- Jamie Sives (Dept. Q, James Hardy)
+- Kelly Macdonald (Dept. Q, Dr. Rachel Irving)
+- Chloe Pirrie (Dept. Q, Merritt Lingard)
