@@ -512,3 +512,11 @@
 - Jamie Sives (Dept. Q, James Hardy)
 - Kelly Macdonald (Dept. Q, Dr. Rachel Irving)
 - Chloe Pirrie (Dept. Q, Merritt Lingard)
+
+## Upgrade
+- Logan Marshall-Green (Upgrade, Grey Trace)
+- Betty Gabriel (Upgrade, Detective Cortez)
+- Harrison Gilbertson (Upgrade, Eron Keen)
+- Benedict Hardie (Upgrade, Fisk)
+- Melanie Vallejo (Upgrade, Asha Trace)
+- Simon Maiden (Upgrade, STEM — ses)
